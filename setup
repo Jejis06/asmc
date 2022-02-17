@@ -1,0 +1,1 @@
+sudo apt install nasm %% apt-get install qemu-system
